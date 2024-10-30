@@ -16,3 +16,7 @@ Link - (https://github.com/Rakeek/SQL-DataBases/blob/main/project%201%20-%20TV%2
 The Vehicle Database stores data about vehicles, including make, model, year, and type.
 
 Link - (https://github.com/Rakeek/SQL-DataBases/blob/main/project%202%20-%20Vehicle%20DB.sql)
+
+
+This provides an overview of the databases, sample SQL code, and a couple of example queries that showcase the functionality. Let me know if you’d like additional customization!
+
